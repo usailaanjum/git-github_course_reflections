@@ -7,4 +7,12 @@
 
 Initializing a repository creates a new repository called .git which is usually
 a hidden file. this repository would allow you to store and commit to all the changes
-in the various files related to the project.  
+in the various files related to the project.
+
+// How is the staging area different from the working directory and the repository?
+// What value do you think it offers?
+
+The staging area is the place where the files could be stored before finalizing
+the commit to the repository. It allows us to make changes which is nice.
+
+// 
