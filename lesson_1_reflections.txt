@@ -1,0 +1,64 @@
+////////////////////////////////////////////////////////////////////////////////
+//                                                                            //
+//                            LESSON 1                                        //
+////////////////////////////////////////////////////////////////////////////////
+
+
+// How did viewing a diff between two versions of a file help you see
+// the bug that was introduced?
+
+The diff command helped me identify the differences in two files
+by pin pointing them instead of going through the whole code
+line by line which is tedious.
+Highlighting only the difference in the code allows me to identify any
+error easily since you are only comparing a few lines of code at a time.
+
+// How could having easy access to the entire history of a file make you a more
+// efficient programmer in the long term?
+
+Having different version of the program saved would allow the programmer
+to go look at the previous version for restoring a snippet of code or to
+see how their problem/coding style evolved over time.
+
+// make one commit per logical change
+
+// what do you think are pros and cons of manually choosing when to
+// create a commit, like you do in Git, vs having versions automatically
+// saved like Google Docs?
+
+Being able to manually choose when to create a commit allows users to actually
+get a good use out of the saved files. Since they are most likely to save it
+after each logical changes, the different commits would reflect a significant
+checkpoint to which they can go to.
+On the other hand, automatic commits saved like in Google docs would save too many
+versions of the files and they might also save it in the middle of write the code
+which would not even compile.
+
+// Why do you think that some version control system, like Git, allow saving
+// multiple files in one commit, while others, like Google Docs, treat each file
+// separately?
+
+Allowing multiple files in one commit allows the users to conveniently find
+changes in all the interrelated files
+
+// How can you use the commands git diff and git log to view the history of files?
+
+Git log allows me to see all the commits that have been made so far with the
+latest commit at the top and the oldest dow.n below which can be seen by
+scrolling down. Q s pressed to exit out of the log
+git diff takes the ID of the previous commit and the current one and finds the
+changes. Once all the changes are identified and the end of file is reached,
+Q is pressed to exit out of it.
+
+// How might using version control might make you more confident to make changes
+// that could break something?
+
+Version control allows us to go back to the previous working code. Therefore,
+it is easy to play around with different ideas without completely losing the
+entire program.
+
+// Now that you have your workspace set up, what do you want to try using Git for?
+
+I would mostly use git for keeping track of my EDP as well as other projects.
+It would also work as a portfolio for all the programming that I would do from
+now on.

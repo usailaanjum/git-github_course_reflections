@@ -1,0 +1,10 @@
+////////////////////////////////////////////////////////////////////////////////
+//                                                                            //
+//                            LESSON 2                                        //
+////////////////////////////////////////////////////////////////////////////////
+
+// What happens when you initialize a repository? Why do you need to do it?
+
+Initializing a repository creates a new repository called .git which is usually
+a hidden file. this repository would allow you to store and commit to all the changes
+in the various files related to the project.  
