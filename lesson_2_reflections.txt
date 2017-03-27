@@ -41,4 +41,9 @@ unreachable.
 Merging the two branches allows us to have all the changes introduced in the other branch
 into the main branch. A tree diagram just helps to know whether you are going to
 leave out any commits for the garbage collector or including everything into the master
-branch. 
+branch.
+
+// What are the pros and cons of git's automatic merging vs. always doing merging manually?
+
+Manual merging allows you to decide which changes in the same files are to be kept
+whereas, the automatic one might IDK? sorry
