@@ -9,4 +9,9 @@ when you are looking to share your work with others or collaborate
 // Why might you always want to pull changes manually rather than having git automatically
 stay up-to-date with your remote repository?
 
-To extract just what you need from other collaborators. 
+To extract just what you need from other collaborators.
+
+//Describe the differences between forks, clones, and branches. When would you use one instead of another?
+fork: copy a repo over the github servers
+clones: copy a repo to your local machine
+branches: branch out commits and work on features within a repo 
