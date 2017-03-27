@@ -15,4 +15,30 @@ in the various files related to the project.
 The staging area is the place where the files could be stored before finalizing
 the commit to the repository. It allows us to make changes which is nice.
 
-// 
+// How can you use the staging area to make sure you have one commit per logical
+// change?
+
+The staging area shows you the changes made between the working directory and the
+staging area before a final commit by using ???? sorry wasn't paying attention
+
+// What are some situations when branches would be helpful in keeping your history organized?
+// How would branches help?
+
+Branches allows you to make experimental changes or different versions of the
+program from a specific point. Branches would also allow you to revert back and
+allow you to fix bug in your master program. Branches could also be merged to
+the main program once it is fully working the way you want it.
+
+// How does the diagram help you visualize the branch structure?
+
+The diagram creates a tree which in turn shows how each commit is related to another
+parent or child commits and whether there is going to be a commit that is
+unreachable.
+
+// What are the results of merging two branches together? Why do we represent in
+// the diagram the way we do?
+
+Merging the two branches allows us to have all the changes introduced in the other branch
+into the main branch. A tree diagram just helps to know whether you are going to
+leave out any commits for the garbage collector or including everything into the master
+branch. 
