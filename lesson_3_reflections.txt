@@ -1,0 +1,13 @@
+////////////////////////////////////////////////////////////////////////////////
+//                                                                            //
+//                            LESSON 3                                        //
+////////////////////////////////////////////////////////////////////////////////
+
+// When would you want to create a remote repository rather than keeping all your work local?
+when you are looking to share your work with others or collaborate
+
+// Why might you always want to pull changes manually rather than having git automatically
+stay up-to-date with your remote repository?
+
+To control what is being shared with he public and also to prevent work-in-progress
+stuff to get online which might not even compile.
