@@ -18,3 +18,11 @@ branches: branch out commits and work on features within a repo
 
 // What is the benefit of having a copy of the last known state of the remote stored locally?
  This allows us to work remotely without internet access. 
+
+// How would you collaborate without using Git or Github? What would be easier and what would be harder?
+Harder: emails/ facebook messages
+Easier: google drive 
+
+// When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Using a different branch would allow you to experiment without risking messing up the master branch. 
