@@ -8,10 +8,13 @@ when you are looking to share your work with others or collaborate
 
 // Why might you always want to pull changes manually rather than having git automatically
 stay up-to-date with your remote repository?
-
+/Users/usaila/Documents/Udacity/version-control/reflections/lesson_3_reflections.txt
 To extract just what you need from other collaborators.
 
 //Describe the differences between forks, clones, and branches. When would you use one instead of another?
 fork: copy a repo over the github servers
 clones: copy a repo to your local machine
 branches: branch out commits and work on features within a repo 
+
+// What is the benefit of having a copy of the last known state of the remote stored locally?
+ This allows us to work remotely without internet access. 
